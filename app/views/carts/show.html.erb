@@ -1,9 +1,12 @@
 <section class="cart-show">
-
   <header class="page-header">
     <h1>My Cart</h1>
   </header>
-
+  <% if cart.size == 0 %>
+  <h3 class="alert alert-warning" role="alert"> Your cart is empty. Please choose something </h3>   
+      
+  <h3><%= link_to 'Home', :root %></h3>
+  <% else %>
   <div class="panel panel-default items">
     <table class="table table-bordered">
       <thead>
@@ -48,5 +51,6 @@
       <% end %>
     </div>
   </div>
+  <% end %>
 
 </section>
