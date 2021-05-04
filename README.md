@@ -3,7 +3,14 @@
 A mini e-commerce application built with Rails 4.2.
 
 ## Screenshots
-
+##### Homepage
+!["Homepage"](https://github.com/IevgenDilevskyi/jungle-rails/blob/master/docs/homepage.png)
+##### Product Details
+!["Product_Details_Page"](https://github.com/IevgenDilevskyi/jungle-rails/blob/master/docs/product_details_page.png)
+##### Cart Page
+!["Cart_Page"](https://github.com/IevgenDilevskyi/jungle-rails/blob/master/docs/cart_page.png)
+##### Admin Page
+!["Admin_Page"](https://github.com/IevgenDilevskyi/jungle-rails/blob/master/docs/admin_page.png)
 
 ## Additional Steps for Apple M1 Machines
 
